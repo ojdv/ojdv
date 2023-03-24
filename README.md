@@ -7,7 +7,7 @@
  
  I am a high student and I am studying Python
  ### contact me
- aa0980949726@gmail.com
+ <a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
  
  
  
