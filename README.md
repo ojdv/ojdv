@@ -4,7 +4,6 @@
 
 - 🌱 I am study **Python**
 
- **aa0980949726@gmail.com**
 
 <h3 align="left">與我聯繫：</h3>
 
